@@ -1,1 +1,1 @@
-print('Hello')
+print('Credit Card Generator')
